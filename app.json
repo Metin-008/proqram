@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "DayFlow",
+    "slug": "dayflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F7FB"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dayflow.app"
+    },
+    "android": {
+      "package": "com.dayflow.app"
+    }
+  }
+}
