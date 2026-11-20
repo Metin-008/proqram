@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Ritm",
+    "slug": "ritm",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": { "bundleIdentifier": "com.metin008.ritm" },
+    "android": { "package": "com.metin008.ritm" }
+  }
+}
